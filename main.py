@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.preprocessing import  LabelEncoder
 import xgboost as xgb
 import numpy as np
-st.header("Fish Weight Prediction App")
+st.header("Muhammed Ajmal P V")
 st.text_input("Enter your Name: ", key="name")
 data = pd.read_csv("Fish.csv")
 
